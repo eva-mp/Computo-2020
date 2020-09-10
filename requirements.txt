@@ -1,4 +1,5 @@
-pandas 1.1.1
-numpy 1.19.1
-matplotlib 3.3.1
-watermark 2.0.2
+﻿pandas==1.1.1
+numpy==1.19.1
+watermark==2.0.2
+matplotlib==3.3.1
+
