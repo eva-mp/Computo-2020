@@ -2,4 +2,5 @@
 numpy==1.19.1
 watermark==2.0.2
 matplotlib==3.3.1
+tabulate==0.8.7
 
